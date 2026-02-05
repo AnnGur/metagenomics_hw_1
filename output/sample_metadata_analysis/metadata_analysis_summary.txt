@@ -28,9 +28,46 @@ Test for age difference between sexes:
 Test used: Independent t-test
 P-value: 0.5395
 
-4. Study Limitations
-Potential limitations in representativeness:
-- Age range and distribution
-- Sex ratio
-- Missing metadata variables
-- Potential sampling bias
+
+4. Alpha Diversity Metrics
+RICHNESS (Species Count):
+  - Mean: 4.6 ± 1.9 species
+  - Range: 1 - 11
+
+SHANNON INDEX:
+  - Mean: 1.273 ± 0.466
+  - Range: -0.00 - 2.17
+
+SIMPSON INDEX:
+  - Mean: 0.661 ± 0.189
+  - Range: 0.00 - 0.88
+
+Diversity Differences by Groups:
+
+  By Gender:
+    Richness:
+      Male: 4.481
+      Female: 4.667
+      P-value: 0.3292
+    Shannon:
+      Male: 1.231
+      Female: 1.288
+      P-value: 0.2379
+    Simpson:
+      Male: 0.646
+      Female: 0.666
+      P-value: 0.3249
+
+  By Disease Status:
+    Richness:
+      Healthy: 4.650
+      Diseased: 3.714
+      P-value: 0.1065
+    Shannon:
+      Healthy: 1.282
+      Diseased: 1.039
+      P-value: 0.2398
+    Simpson:
+      Healthy: 0.665
+      Diseased: 0.551
+      P-value: 0.3340
