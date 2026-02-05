@@ -1,0 +1,74 @@
+================================================================================
+TAXONOMIC ANALYSIS REPORT
+================================================================================
+
+1. SUMMARY STATISTICS BY TAXONOMIC LEVEL
+--------------------------------------------------------------------------------
+
+PHYLUM:
+  Total number: 8
+  Top 5 most abundant:
+    - Bacteroidota: 27.34% (present in 73.5% of samples)
+    - Bacillota_A: 23.87% (present in 71.5% of samples)
+    - Bacillota: 18.46% (present in 60.0% of samples)
+    - Bacillota_C: 10.32% (present in 38.0% of samples)
+    - Actinomycetota: 7.97% (present in 31.8% of samples)
+
+CLASS:
+  Total number: 9
+  Top 5 most abundant:
+    - Bacteroidia: 27.34% (present in 73.5% of samples)
+    - Clostridia: 23.87% (present in 71.5% of samples)
+    - Bacilli: 18.46% (present in 60.0% of samples)
+    - Negativicutes: 10.32% (present in 38.0% of samples)
+    - Actinomycetia: 7.97% (present in 31.8% of samples)
+
+ORDER:
+  Total number: 14
+  Top 5 most abundant:
+    - Bacteroidales: 27.34% (present in 73.5% of samples)
+    - Oscillospirales: 17.12% (present in 58.8% of samples)
+    - Lactobacillales: 12.21% (present in 43.5% of samples)
+    - Actinomycetales: 7.97% (present in 31.8% of samples)
+    - Veillonellales: 7.25% (present in 29.8% of samples)
+
+FAMILY:
+  Total number: 20
+  Top 5 most abundant:
+    - Bacteroidaceae: 21.46% (present in 65.2% of samples)
+    - Acutalibacteraceae: 10.93% (present in 40.8% of samples)
+    - Bifidobacteriaceae: 7.97% (present in 31.8% of samples)
+    - Ruminococcaceae: 6.19% (present in 29.0% of samples)
+    - Lactobacillaceae: 4.62% (present in 19.0% of samples)
+
+GENUS:
+  Total number: 26
+  Top 5 most abundant:
+    - Bacteroides: 11.95% (present in 45.0% of samples)
+    - Bifidobacterium: 7.97% (present in 31.8% of samples)
+    - Lactobacillus: 4.62% (present in 19.0% of samples)
+    - Ruminococcus_E: 4.11% (present in 16.0% of samples)
+    - Dialister: 3.97% (present in 16.5% of samples)
+
+
+2. PHYLUM-LEVEL DOMINANCE ANALYSIS
+--------------------------------------------------------------------------------
+
+Total number of phyla detected: 8
+
+Dominance Metrics:
+  - Top 3 phyla account for: 69.67% of total abundance
+  - Top 5 phyla account for: 87.96% of total abundance
+  - Number of phyla needed for 80% of abundance: 5
+  - Number of phyla needed for 95% of abundance: 7
+
+
+3. DIVERSITY ANALYSIS
+--------------------------------------------------------------------------------
+
+Shannon Diversity Index by taxonomic level:
+  - Phylum: 1.824
+  - Class: 1.866
+  - Order: 2.278
+  - Family: 2.757
+  - Genus: 3.169

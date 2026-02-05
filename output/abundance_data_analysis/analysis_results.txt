@@ -1,0 +1,19 @@
+Dataset Summary:
+Number of samples: 400
+Number of species: 30
+
+Top 5 most prevalent species:
+                                               Species  Prevalence  Mean_Relative_Abundance
+Lactobacillus acidophilus    Lactobacillus acidophilus      0.1900                 0.046176
+Bifidobacterium bifidum        Bifidobacterium bifidum      0.1825                 0.040399
+Roseburia intestinalis          Roseburia intestinalis      0.1750                 0.037814
+Escherichia coli                      Escherichia coli      0.1725                 0.033367
+Ruminococcus_D bicirculans  Ruminococcus_D bicirculans      0.1700                 0.032378
+
+Top 5 species by mean relative abundance:
+                                             Species  Prevalence  Mean_Relative_Abundance
+Lactobacillus acidophilus  Lactobacillus acidophilus      0.1900                 0.046176
+Ruminococcus_E bromii_B      Ruminococcus_E bromii_B      0.1600                 0.041099
+Bifidobacterium bifidum      Bifidobacterium bifidum      0.1825                 0.040399
+Dialister invisus                  Dialister invisus      0.1650                 0.039670
+Eubacterium_R faecale          Eubacterium_R faecale      0.1650                 0.039595
